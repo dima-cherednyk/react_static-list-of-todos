@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoList/TodoList.scss"],"names":[],"mappings":"AAAA,MACE,sBAAuB,CACvB,kBAAmB,CAFrB,iBAKI,eAAgB","file":"main.47de9e80.chunk.css","sourcesContent":[".todo {\n  border: green 1px solid;\n  margin-bottom: 10px;\n\n  &:last-child {\n    margin-bottom: 0;\n  }\n}\n"]}
